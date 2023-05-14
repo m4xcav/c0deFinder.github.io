@@ -1,0 +1,25 @@
+
+
+body {
+    background-color: rgb(89, 67, 177);
+}
+
+.navbar {
+    background-color: darkblue;
+    border-radius: 10px;
+}
+
+img {
+    border-radius: 10px;
+
+}
+
+footer {
+    background-color: darkblue;
+    color: azure;
+}
+
+i{
+    font-size:3.12rem;
+    padding: 0.25rem;
+}
